@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.vmware.VirtualMachines'
 VERSION = '1.2.3'
 AUTHOR = 'Michael C. Hoffman'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.vmware']
 PACKAGES = ['ZenPacks', 'ZenPacks.vmware', 'ZenPacks.vmware.VirtualMachines']
 INSTALL_REQUIRES = []
